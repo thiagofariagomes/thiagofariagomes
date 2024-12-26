@@ -26,6 +26,7 @@ Olá! Sou Thiago Gomes. Apaixonado por tecnologia e pela criação de experiênc
 
 <img src="https://github.com/user-attachments/assets/f4b12c7e-e94b-45e8-b2a4-2783db1a420c" alt="HTML-Logo" width="30px"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS-Logo" width="25px"> 
 
+<br>
 
 [![Thiago stats](https://github-readme-stats.vercel.app/api?username=thiagofariagomes)](https://github.com/anuraghazra/github-readme-stats)
 
