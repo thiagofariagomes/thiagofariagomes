@@ -24,7 +24,7 @@ Olá! Sou Thiago Gomes. Apaixonado por tecnologia e pela criação de experiênc
 
 ## Idiomas e ferramentas:
 
-<img src="https://github.com/user-attachments/assets/f4b12c7e-e94b-45e8-b2a4-2783db1a420c" alt="HTML-Logo" width="30px"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS-Logo" width="25px"> 
+<img src="https://github.com/user-attachments/assets/f4b12c7e-e94b-45e8-b2a4-2783db1a420c" alt="HTML-Logo" width="30px"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS-Logo" width="25px"> <img src="https://logospng.org/download/javascript/logo-javascript-256.png" width="31px"> 
 
 <br>
 
