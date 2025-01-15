@@ -17,7 +17,7 @@ Olá! Sou Thiago Gomes. Apaixonado por tecnologia e pela criação de experiênc
 <br>
 <p>
 <a href="https://www.instagram.com/thiagofariagomes/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2845/PNG/512/instagram_logo_icon_181283.png" aling="left" width="70px" alt="Instagram-Logo></a>
-<a href="https://www.linkedin.com/in/thiago-faria-gomes-2a33622a3" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/585/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="Linkedin-Logo" width="70px"></a>
+<a href="www.linkedin.com/in/thiago-faria-gomes" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/585/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="Linkedin-Logo" width="70px"></a>
 </p>
 
 <br>
