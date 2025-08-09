@@ -74,3 +74,8 @@ Me chamo Thiago Faria Gomes, tenho 20 anos e sou natural de Minas Gerais. Conclu
   />
 
 </p>
+
+[!Snake animation](https://github.com/thiagofariagomes/thiagofariagomes/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=thiagofariagomes&repo=thiagofariagomes&theme=react)](https://github.com/thiagofariagomes/thiagofariagomes)
+
