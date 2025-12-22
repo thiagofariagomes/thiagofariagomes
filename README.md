@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Thiago Gomes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Thiago Faria Gomes, tenho 20 anos e sou natural de Minas Gerais. Concluí o ensino médio com curso de informática e atualmente curso Sistemas de Informação na UNICA. Sou apaixonado por tecnologia e programação.
 
@@ -27,11 +27,11 @@ Me chamo Thiago Faria Gomes, tenho 20 anos e sou natural de Minas Gerais. Conclu
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" 
 />
 
 <img 
