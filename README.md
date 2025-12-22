@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Thiago Faria Gomes, tenho 20 anos e sou natural de Minas Gerais. Concluí o ensino médio com curso de informática e atualmente curso Sistemas de Informação na UNICA. Sou apaixonado por tecnologia e programação.
+Sou um desenvolvedor em formação com foco em Back-end, apaixonado por tecnologia e resolução de problemas.
+
+Estudo diariamente Python e SQL, fortalecendo minha base em lógica de programação e desenvolvimento de sistemas. Meu objetivo é conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior, contribuindo com aprendizado constante e evolução técnica.
+
+Acredito que a prática, a disciplina e a curiosidade são essenciais para crescer na área de desenvolvimento de software.
 
 
 ---
