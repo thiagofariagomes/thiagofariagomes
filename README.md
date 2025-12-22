@@ -2,6 +2,10 @@
 
 **`Desenvolvedor Back-End`**
 
+<strong>👋 Olá, sou Thiago Gomes!</strong> <br>
+
+<strong>💻 Sistema de Informação em formação | 🎯 Apaixonado por tecnologia e inovação</strong>
+
 Sou um desenvolvedor em formação com foco em Back-end, apaixonado por tecnologia e resolução de problemas.
 
 Estudo diariamente Python e SQL, fortalecendo minha base em lógica de programação e desenvolvimento de sistemas. Meu objetivo é conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior, contribuindo com aprendizado constante e evolução técnica.
