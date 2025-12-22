@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-<strong>👋 Olá, sou Thiago Gomes!</strong> <br>
+<h3><strong>👋 Olá, sou Thiago Gomes!</strong></h3> <br>
 
 <strong>💻 Sistema de Informação em formação | 🎯 Apaixonado por tecnologia e inovação</strong>
 
