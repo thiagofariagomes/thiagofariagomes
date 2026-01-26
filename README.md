@@ -25,6 +25,17 @@ Acredito que a prática, a disciplina e a curiosidade são essenciais para cresc
     src="https://static.vecteezy.com/system/resources/previews/048/332/150/non_2x/java-programming-language-java-logo-free-png.png" 
 />
 
+
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="40px" 
+    style="padding-right: 5px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" 
+/>
+
 <img 
     align="left" 
     alt="JavaScript" 
