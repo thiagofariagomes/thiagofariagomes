@@ -6,9 +6,9 @@
 
 <strong>💻 Sistema de Informação em formação | 🎯 Apaixonado por tecnologia e inovação</strong>
 
-Sou um desenvolvedor em formação com foco em Aplicativos, apaixonado por tecnologia e resolução de problemas.
+Sou um desenvolvedor em formação com foco em Back-End, apaixonado por tecnologia e resolução de problemas.
 
-Estudo diariamente React Native e Algoritmos, fortalecendo minha base em lógica de programação e desenvolvimento de aplicativos. Meu objetivo é conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior, contribuindo com aprendizado constante e evolução técnica.
+Estudo diariamente Java e Algoritmos, fortalecendo minha base em lógica de programação e desenvolvimento de sistemas. Meu objetivo é conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior, contribuindo com aprendizado constante e evolução técnica.
 
 Acredito que a prática, a disciplina e a curiosidade são essenciais para crescer na área de desenvolvimento de software.
 
@@ -18,11 +18,11 @@ Acredito que a prática, a disciplina e a curiosidade são essenciais para cresc
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="React-Native" 
-    title="React-Native"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/250px-React-icon.svg.png" 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 5px; margin: -15px;"
+    src="https://static.vecteezy.com/system/resources/previews/048/332/150/non_2x/java-programming-language-java-logo-free-png.png" 
 />
 
 <img 
